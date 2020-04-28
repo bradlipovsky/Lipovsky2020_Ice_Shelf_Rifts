@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/259717618.svg)](https://zenodo.org/badge/latestdoi/259717618)
+
 **Overview**
 
 These codes recreate the figures in [Lipovsky (2020, The Cryosphere)](https://doi.org/10.5194/tc-2019-232).  Please note the citation at the end of this document.
