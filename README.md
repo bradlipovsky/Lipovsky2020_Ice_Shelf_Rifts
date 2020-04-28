@@ -9,6 +9,7 @@ These codes recreate the figures in [Lipovsky (2020, The Cryosphere)](https://do
 3. Data files, which begin with either "dcm" or "dat".
 
 **License**
+
 This code is licensed under the GNU General Public License v3.0. Non-free licenses may be available for certain purposes; contact the author for more information.
 
 **Reference**
